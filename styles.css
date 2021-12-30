@@ -17,7 +17,11 @@ body{
     padding-right:30%;
 }
 
-h2 {
+a{
+    text-decoration: none;
+}
+
+h2,h4 {
     color: darkslategray;
     padding-top: 5px;
 
